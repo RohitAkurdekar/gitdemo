@@ -1,7 +1,10 @@
 #!/usr/bin/python3
+
+# Addition function
 def add(num1,num2):
     return num1+num2
 
+# Subtract function
 def sub(num1,num2):
     return num1-num2
 
